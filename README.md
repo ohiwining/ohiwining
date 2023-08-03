@@ -1,8 +1,4 @@
 - 👋 Hi, I’m @ohiwining
-- 👀 I’m interested in Data Analysis & Algorithm
-- 🌱 I’m currently majoring in Software Engineering
+- 👀 I’m interested in Data Analysis & ML & AI
+- 🌱 I’m currently majoring in Artificial Intelligence
 - 😩 Facing unemployment now, preying~
-
-Feel free to contact me!
-
-WeChat: PascalEye
